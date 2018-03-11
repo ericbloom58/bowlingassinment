@@ -36,7 +36,7 @@ public class BowlingAssignment {
     
     public static void main(String[] args) {
         //user Input
-        String userInput1 = "X 7/ 9- X -8 8/ -6 X X X81";
+        String userInput1 = "X 7/ 9- X -8 8/ -6 X X X81"; //Spaces added to input to differentiate between each bowling frame.
         
         BowlingAssignment bowling = new BowlingAssignment(userInput1);
         
